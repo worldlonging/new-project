@@ -1,2 +1,2 @@
-# new-project
-only my project
+# promo site
+just promo site about me
